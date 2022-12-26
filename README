@@ -1,0 +1,15 @@
+This is a quick program that allows for the simple shift encryption on a given
+input file. 
+
+All files must be in the working directory in order for the code to recognize them
+
+The program will make files called "encrypt.txt" and "decrypt.txt" and the former
+is needed for the decrypt function to run properly. Once you have generated an
+"encrypt.txt" you can send it to someone else that is using this codebase and they
+can then decrypt it with no hastle.
+
+The text files provided are examples and the code will not reognise them as usable
+files. You can create the "example_encrypt/decrypt.txt files by running the code
+with "example_input.txt"
+
+Best of luck and have fun with this!
